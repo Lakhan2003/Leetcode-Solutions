@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0948-sort-an-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,8 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
