@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0948-sort-an-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0948-sort-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
