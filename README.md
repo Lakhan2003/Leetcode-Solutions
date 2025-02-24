@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0948-sort-an-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0948-sort-an-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
