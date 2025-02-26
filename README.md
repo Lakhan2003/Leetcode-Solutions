@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0948-sort-an-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-sum-of-good-numbers](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/3723-sum-of-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
