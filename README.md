@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0948-sort-an-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
