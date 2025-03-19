@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [2032-largest-odd-number-in-string](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
