@@ -1,7 +1,7 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
-        k = k % n;
+        k = k % n; // if k is greater than length 
 
         reverse(nums, 0, n - 1);
         reverse(nums, 0, k - 1);
@@ -9,15 +9,15 @@ class Solution {
 
     }
 
-    public void reverse(int[] nums, int start, int end) {
-        while (start < end) {
+    // reverse function 
+    public void reverse(int nums[], int start, int end) {
+        while (start < end) { //swap logic 
             int temp = nums[start];
             nums[start] = nums[end];
             nums[end] = temp;
             start++;
             end--;
+
         }
-
     }
-
 }
