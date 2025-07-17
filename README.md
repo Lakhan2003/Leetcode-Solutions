@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Lakhan2003/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
